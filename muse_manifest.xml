@@ -1,0 +1,627 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.com" resolutions="1x" timestamp="1499831026683">
+  <folder name="css">
+    <file name="site_global.css" crc="294638623"/>
+    <file name="master_a-master.css" crc="4217795030" ref="uu-dai-2:thu-vien:uu-dai-1:dich-vu:thuc-don:chuong-trinh-cuoi:index:banh-cuoi:am-nhac:am-thuc:trang-diem:uu-dai:gioi-thieu:tin-1:tin-2:lien-he:tin-3:uu-dai-3:tin-tuc:hoa-cuoi"/>
+    <file name="uu-dai-2.css" crc="528372929" ref="uu-dai-2"/>
+    <file name="thu-vien.css" crc="4062096798" ref="thu-vien"/>
+    <file name="uu-dai-1.css" crc="4244045818" ref="uu-dai-1"/>
+    <file name="dich-vu.css" crc="4240420899" ref="dich-vu"/>
+    <file name="thuc-don.css" crc="124444375" ref="thuc-don"/>
+    <file name="chuong-trinh-cuoi.css" crc="467610986" ref="chuong-trinh-cuoi"/>
+    <file name="index.css" crc="3819908608" ref="index"/>
+    <file name="banh-cuoi.css" crc="442305648" ref="banh-cuoi"/>
+    <file name="am-nhac.css" crc="252617856" ref="am-nhac"/>
+    <file name="am-thuc.css" crc="19546253" ref="am-thuc"/>
+    <file name="trang-diem.css" crc="151668713" ref="trang-diem"/>
+    <file name="uu-dai.css" crc="3912721090" ref="uu-dai"/>
+    <file name="gioi-thieu.css" crc="4134514547" ref="gioi-thieu"/>
+    <file name="tin-1.css" crc="475430816" ref="tin-1"/>
+    <file name="tin-2.css" crc="518201825" ref="tin-2"/>
+    <file name="iefonts_tin-2.css" crc="521649863" ref="tin-2"/>
+    <file name="lien-he.css" crc="3860863346" ref="lien-he"/>
+    <file name="tin-3.css" crc="208613305" ref="tin-3"/>
+    <file name="iefonts_tin-3.css" crc="4027083064" ref="tin-3"/>
+    <file name="uu-dai-3.css" crc="382089428" ref="uu-dai-3"/>
+    <file name="tin-tuc.css" crc="478345449" ref="tin-tuc"/>
+    <file name="hoa-cuoi.css" crc="23551451" ref="hoa-cuoi"/>
+  </folder>
+  <folder name="fonts">
+    <file name="svn-bali script.woff" crc="3920557641"/>
+    <file name="svn-bali script.eot" crc="3998124774"/>
+    <file name="svn-bali script.svg" crc="396134147"/>
+    <file name="opensans-regular.woff" crc="3870301493"/>
+    <file name="opensans-regular.eot" crc="520480313"/>
+    <file name="opensans-regular.svg" crc="4097555395"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>about:phone>services:phone>gallery:phone>testimonials:phone>blog:phone>sample--blog-page:phone>contact:tablet>index:tablet>about:tablet>services:tablet>gallery:tablet>testimonials:tablet>blog:tablet>sample--blog-page:tablet>contact:index:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:tin-1:uu-dai:trang-diem:am-thuc:am-nhac:banh-cuoi:chuong-trinh-cuoi:uu-dai-1:uu-dai-2:uu-dai-3:tin-2:tin-3:thuc-don:hoa-cuoi"/>
+    <file name="museutils.js" crc="4232573551" ref="phone>index:phone>about:phone>services:phone>gallery:phone>testimonials:phone>blog:phone>sample--blog-page:phone>contact:tablet>index:tablet>about:tablet>services:tablet>gallery:tablet>testimonials:tablet>blog:tablet>sample--blog-page:tablet>contact:index:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:tin-1:uu-dai:trang-diem:am-thuc:am-nhac:banh-cuoi:chuong-trinh-cuoi:uu-dai-1:uu-dai-2:uu-dai-3:tin-2:tin-3:thuc-don:hoa-cuoi"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>about:phone>services:phone>gallery:phone>testimonials:phone>blog:phone>sample--blog-page:phone>contact:tablet>index:tablet>about:tablet>services:tablet>gallery:tablet>testimonials:tablet>blog:tablet>sample--blog-page:tablet>contact:index:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:tin-1:uu-dai:trang-diem:am-thuc:am-nhac:banh-cuoi:chuong-trinh-cuoi:uu-dai-1:uu-dai-2:uu-dai-3:tin-2:tin-3:thuc-don:hoa-cuoi"/>
+    <file name="museconfig.js" crc="3849126041" ref="phone>index:phone>about:phone>services:phone>gallery:phone>testimonials:phone>blog:phone>sample--blog-page:phone>contact:tablet>index:tablet>about:tablet>services:tablet>gallery:tablet>testimonials:tablet>blog:tablet>sample--blog-page:tablet>contact:index:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:tin-1:uu-dai:trang-diem:am-thuc:am-nhac:banh-cuoi:chuong-trinh-cuoi:uu-dai-1:uu-dai-2:uu-dai-3:tin-2:tin-3:thuc-don:hoa-cuoi"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="phone>index:phone>about:phone>services:phone>gallery:phone>testimonials:phone>blog:phone>sample--blog-page:phone>contact:tablet>index:tablet>about:tablet>services:tablet>gallery:tablet>testimonials:tablet>blog:tablet>sample--blog-page:tablet>contact:index:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:tin-1:uu-dai:trang-diem:am-thuc:am-nhac:banh-cuoi:chuong-trinh-cuoi:uu-dai-1:uu-dai-2:uu-dai-3:tin-2:tin-3:thuc-don:hoa-cuoi"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="phone>index:phone>about:phone>services:phone>gallery:phone>testimonials:phone>blog:phone>sample--blog-page:phone>contact:tablet>index:tablet>about:tablet>services:tablet>gallery:tablet>testimonials:tablet>blog:tablet>sample--blog-page:tablet>contact:index:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:tin-1:uu-dai:trang-diem:am-thuc:am-nhac:banh-cuoi:chuong-trinh-cuoi:uu-dai-1:uu-dai-2:uu-dai-3:tin-2:tin-3:thuc-don:hoa-cuoi"/>
+    <file name="webpro.js" crc="3770351119" ref="phone>index:phone>about:phone>services:phone>gallery:phone>testimonials:phone>blog:phone>sample--blog-page:phone>contact:tablet>index:tablet>gallery:tablet>contact:index:thu-vien:lien-he:trang-diem"/>
+    <file name="musewpdisclosure.js" crc="347705465" ref="phone>index:phone>about:phone>services:phone>gallery:phone>testimonials:phone>blog:phone>sample--blog-page:phone>contact"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="phone>index:phone>gallery:tablet>index:tablet>gallery:index:thu-vien:trang-diem"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="phone>index:phone>gallery:tablet>index:tablet>gallery:index:thu-vien:trang-diem"/>
+    <file name="touchswipe.js" crc="3912873526" ref="phone>index:phone>gallery:tablet>index:tablet>gallery:index:thu-vien:trang-diem"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="phone>index:phone>about:phone>services:phone>gallery:phone>testimonials:phone>blog:phone>sample--blog-page:phone>contact:tablet>index:tablet>about:tablet>services:tablet>gallery:tablet>testimonials:tablet>blog:tablet>sample--blog-page:tablet>contact:index:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:tin-1:uu-dai:am-nhac:banh-cuoi:tin-2:tin-3:hoa-cuoi:chuong-trinh-cuoi"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="phone>index:phone>about:phone>services:phone>gallery:phone>testimonials:phone>blog:phone>sample--blog-page:phone>contact:tablet>index:tablet>about:tablet>services:tablet>gallery:tablet>testimonials:tablet>blog:tablet>sample--blog-page:tablet>contact:index:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:tin-1:uu-dai:trang-diem:am-thuc:am-nhac:banh-cuoi:chuong-trinh-cuoi:uu-dai-1:uu-dai-2:uu-dai-3:tin-2:tin-3:thuc-don:hoa-cuoi"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>about:phone>services:phone>gallery:phone>testimonials:phone>blog:phone>sample--blog-page:phone>contact:tablet>index:tablet>about:tablet>services:tablet>gallery:tablet>testimonials:tablet>blog:tablet>sample--blog-page:tablet>contact:index:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:tin-1:uu-dai:trang-diem:am-thuc:am-nhac:banh-cuoi:chuong-trinh-cuoi:uu-dai-1:uu-dai-2:uu-dai-3:tin-2:tin-3:thuc-don:hoa-cuoi"/>
+    <file name="require.js" crc="4234670167" ref="phone>index:phone>about:phone>services:phone>gallery:phone>testimonials:phone>blog:phone>sample--blog-page:phone>contact:tablet>index:tablet>about:tablet>services:tablet>gallery:tablet>testimonials:tablet>blog:tablet>sample--blog-page:tablet>contact:index:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:tin-1:uu-dai:trang-diem:am-thuc:am-nhac:banh-cuoi:chuong-trinh-cuoi:uu-dai-1:uu-dai-2:uu-dai-3:tin-2:tin-3:thuc-don:hoa-cuoi"/>
+    <file name="form_check.php" crc="3841221102" ref="phone>contact:lien-he"/>
+    <file name="form_throttle.php" crc="4048049783" ref="phone>contact:lien-he"/>
+    <file name="form_process.php" crc="3899230280" ref="phone>contact:lien-he"/>
+    <file name="form-u25342.php" crc="3805449923" ref="phone>contact"/>
+    <file name="form-u24357.php" crc="3794102375" ref="tablet>contact"/>
+    <file name="form-u16647.php" crc="3941270479" ref="lien-he"/>
+  </folder>
+  <folder name="images">
+    <file name="logo1.png" crc="3817860187" seo="true" ref="phone>index:phone>about:phone>services:phone>gallery:phone>testimonials:phone>blog:phone>sample--blog-page:phone>contact:tablet>index:tablet>about:tablet>services:tablet>gallery:tablet>testimonials:tablet>blog:tablet>sample--blog-page:tablet>contact">
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="sample--blog-page" alt=""/>
+      <caption webpage="sample--blog-page" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="menu1.png" crc="48598522" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu2.png" crc="329889642" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slide1-crop-u24752.jpg" crc="138609003" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:phone>gallery:tablet>index:tablet>gallery:index:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:tin-1:uu-dai:trang-diem:am-thuc:am-nhac:banh-cuoi:chuong-trinh-cuoi:uu-dai-1:uu-dai-2:uu-dai-3:tin-2:tin-3:thuc-don:hoa-cuoi"/>
+    <file name="slide2-crop-u24754.jpg" crc="3768944257" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:phone>gallery:tablet>index:tablet>gallery:index:thu-vien:trang-diem"/>
+    <file name="heart_32px.png" crc="4184823264" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gift_32px.png" crc="3842206368" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lightbulb_32px.png" crc="463794836" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="line01.png" crc="3916983523" seo="true" ref="phone>index:phone>about:phone>services:phone>gallery:phone>testimonials:phone>blog:phone>contact:tablet>index:tablet>about:tablet>services:tablet>gallery:tablet>testimonials:tablet>blog:tablet>contact:index:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:uu-dai">
+      <caption webpage="uu-dai" alt=""/>
+      <caption webpage="thu-vien" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="dich-vu" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="gioi-thieu" alt=""/>
+      <caption webpage="gioi-thieu" alt=""/>
+      <caption webpage="lien-he" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="tin-tuc" alt=""/>
+    </file>
+    <file name="about1-buttonu24812-fr.jpg" crc="484365420" ref="phone>index:phone>about"/>
+    <file name="gallery1296x222.jpg" crc="310664964" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery2296x222.jpg" crc="367982914" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery3296x222.jpg" crc="207132616" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery4296x222.jpg" crc="3968368740" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery5296x222.jpg" crc="3907443491" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery6296x222.jpg" crc="4255314989" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery7296x222.jpg" crc="3804896684" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery8296x222.jpg" crc="4159531286" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery1188x142.jpg" crc="3970007228" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery2188x141.jpg" crc="159617106" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery3188x142.jpg" crc="4150956025" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery4188x142.jpg" crc="4294419583" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery5188x141.jpg" crc="3910834932" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery6188x141.jpg" crc="4153745361" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery7188x141.jpg" crc="475673451" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery8188x141.jpg" crc="3979735022" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="up.png" crc="3888918054" ref="phone>index:phone>about:phone>services:phone>gallery:phone>testimonials:phone>blog:phone>sample--blog-page:phone>contact:tablet>index:tablet>about:tablet>services:tablet>gallery:tablet>testimonials:tablet>blog:tablet>sample--blog-page:tablet>contact:index:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:tin-1:uu-dai:trang-diem:am-thuc:am-nhac:banh-cuoi:chuong-trinh-cuoi:uu-dai-1:uu-dai-2:uu-dai-3:tin-2:tin-3:hoa-cuoi">
+      <caption webpage="tin-2" alt=""/>
+      <caption webpage="uu-dai-3" alt=""/>
+      <caption webpage="dich-vu" alt=""/>
+      <caption webpage="uu-dai-2" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="gioi-thieu" alt=""/>
+      <caption webpage="lien-he" alt=""/>
+      <caption webpage="tin-3" alt=""/>
+      <caption webpage="tin-1" alt=""/>
+      <caption webpage="cam-hoa" alt=""/>
+      <caption webpage="sample--blog-page" alt=""/>
+      <caption webpage="sample--blog-page" alt=""/>
+      <caption webpage="hoa-cuoi" alt=""/>
+      <caption webpage="am-thuc" alt=""/>
+      <caption webpage="thu-vien" alt=""/>
+      <caption webpage="am-nhac" alt=""/>
+      <caption webpage="trang-diem" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="chuong-trinh-cuoi" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="tin-tuc" alt=""/>
+      <caption webpage="banh-cuoi" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="uu-dai" alt=""/>
+      <caption webpage="uu-dai-1" alt=""/>
+    </file>
+    <file name="background1-u24945-fr.jpg" crc="286362239" ref="phone>about:phone>services:phone>gallery:phone>testimonials:phone>blog:phone>contact"/>
+    <file name="team1.jpg" crc="3906119878" ref="phone>about:tablet>about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="team2.jpg" crc="137235425" ref="phone>about:tablet>about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="team3.jpg" crc="508920840" ref="phone>about:tablet>about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="team4.jpg" crc="69149604" ref="phone>about:tablet>about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="testimonial1.jpg" crc="3988660058" ref="phone>testimonials:tablet>testimonials">
+      <caption webpage="testimonials" alt=""/>
+    </file>
+    <file name="testimonial2.jpg" crc="3762377217" ref="phone>testimonials:tablet>testimonials">
+      <caption webpage="testimonials" alt=""/>
+    </file>
+    <file name="testimonial3.jpg" crc="248408968" ref="phone>testimonials:tablet>testimonials">
+      <caption webpage="testimonials" alt=""/>
+    </file>
+    <file name="blog1.jpg" crc="4108470967" ref="phone>blog:tablet>blog">
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="blog2.jpg" crc="340716171" ref="phone>blog:tablet>blog">
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="blog3.jpg" crc="376130895" ref="phone>blog:tablet>blog">
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="blog01-u25387-fr.jpg" crc="286472386" ref="phone>sample--blog-page"/>
+    <file name="slide1-crop-u23855.jpg" crc="4233270586" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slide2-crop-u23857.jpg" crc="4015812892" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="about1.jpg" crc="4062676227" ref="tablet>index:tablet>about:index:gioi-thieu">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gioi-thieu" alt=""/>
+    </file>
+    <file name="gallery1.jpg" crc="4224615033" seo="true" ref="tablet>index:tablet>gallery:index:thu-vien">
+      <caption webpage="index" alt=""/>
+      <caption webpage="thu-vien" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery2.jpg" crc="14643524" seo="true" ref="tablet>index:tablet>gallery:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery3.jpg" crc="4287027644" seo="true" ref="tablet>index:tablet>gallery:index:thu-vien">
+      <caption webpage="index" alt=""/>
+      <caption webpage="thu-vien" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery4.jpg" crc="4020600179" seo="true" ref="tablet>index:tablet>gallery:index:thu-vien">
+      <caption webpage="index" alt=""/>
+      <caption webpage="thu-vien" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery5.jpg" crc="30669528" seo="true" ref="tablet>index:tablet>gallery:index:thu-vien">
+      <caption webpage="index" alt=""/>
+      <caption webpage="thu-vien" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery6.jpg" crc="4179629056" seo="true" ref="tablet>index:tablet>gallery:index:thu-vien">
+      <caption webpage="index" alt=""/>
+      <caption webpage="thu-vien" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery7.jpg" crc="81199627" seo="true" ref="tablet>index:tablet>gallery:index:thu-vien">
+      <caption webpage="index" alt=""/>
+      <caption webpage="thu-vien" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery8.jpg" crc="317495982" seo="true" ref="tablet>index:tablet>gallery:index:thu-vien">
+      <caption webpage="index" alt=""/>
+      <caption webpage="thu-vien" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery1348x262.jpg" crc="3911076145" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery2348x261.jpg" crc="4236026038" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery3348x262.jpg" crc="200777022" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery4348x262.jpg" crc="367748870" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery5348x262.jpg" crc="390467569" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery6348x261.jpg" crc="4070743789" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery7348x261.jpg" crc="4243027783" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery8348x262.jpg" crc="163463866" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="background1.jpg" crc="4238248550" ref="tablet>about:tablet>services:tablet>gallery:tablet>testimonials:tablet>blog:tablet>contact:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:uu-dai">
+      <caption webpage="uu-dai" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="gioi-thieu" alt=""/>
+    </file>
+    <file name="blog01.jpg" crc="3951626613" ref="tablet>sample--blog-page">
+      <caption webpage="sample--blog-page" alt=""/>
+    </file>
+    <file name="bbbb-crop-u27164.png" crc="210237568" seo="true" ref="index:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:tin-1:uu-dai:trang-diem:am-thuc:am-nhac:banh-cuoi:chuong-trinh-cuoi:uu-dai-1:uu-dai-2:uu-dai-3:tin-2:tin-3:thuc-don:hoa-cuoi">
+      <caption webpage="uu-dai" alt=""/>
+      <caption webpage="am-thuc" alt=""/>
+      <caption webpage="thu-vien" alt=""/>
+      <caption webpage="tin-2" alt=""/>
+      <caption webpage="uu-dai-3" alt=""/>
+      <caption webpage="am-nhac" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="chuong-trinh-cuoi" alt=""/>
+      <caption webpage="dich-vu" alt=""/>
+      <caption webpage="uu-dai-2" alt=""/>
+      <caption webpage="thuc-don" alt=""/>
+      <caption webpage="banh-cuoi" alt=""/>
+      <caption webpage="lien-he" alt=""/>
+      <caption webpage="trang-diem" alt=""/>
+      <caption webpage="gioi-thieu" alt=""/>
+      <caption webpage="hoa-cuoi" alt=""/>
+      <caption webpage="tin-3" alt=""/>
+      <caption webpage="tin-1" alt=""/>
+      <caption webpage="cam-hoa" alt=""/>
+      <caption webpage="uu-dai-1" alt=""/>
+      <caption webpage="tin-tuc" alt=""/>
+    </file>
+    <file name="u22179.png" crc="171559221" ref="index:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:tin-1:uu-dai:trang-diem:am-thuc:am-nhac:banh-cuoi:chuong-trinh-cuoi:uu-dai-1:uu-dai-2:uu-dai-3:tin-2:tin-3:thuc-don:hoa-cuoi"/>
+    <file name="u22179-r.png" crc="4089320986" ref="index:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:tin-1:uu-dai:trang-diem:am-thuc:am-nhac:banh-cuoi:chuong-trinh-cuoi:uu-dai-1:uu-dai-2:uu-dai-3:tin-2:tin-3:thuc-don:hoa-cuoi"/>
+    <file name="u22179-a.png" crc="4215331435" ref="index:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:tin-1:uu-dai:trang-diem:am-thuc:am-nhac:banh-cuoi:chuong-trinh-cuoi:uu-dai-1:uu-dai-2:uu-dai-3:tin-2:tin-3:thuc-don:hoa-cuoi"/>
+    <file name="u22143.png" crc="24558713" ref="index:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:tin-1:uu-dai:trang-diem:am-thuc:am-nhac:banh-cuoi:chuong-trinh-cuoi:uu-dai-1:uu-dai-2:uu-dai-3:tin-2:tin-3:thuc-don:hoa-cuoi"/>
+    <file name="u22143-r.png" crc="214756874" ref="index:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:tin-1:uu-dai:trang-diem:am-thuc:am-nhac:banh-cuoi:chuong-trinh-cuoi:uu-dai-1:uu-dai-2:uu-dai-3:tin-2:tin-3:thuc-don:hoa-cuoi"/>
+    <file name="u22143-a.png" crc="510483519" ref="index:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:tin-1:uu-dai:trang-diem:am-thuc:am-nhac:banh-cuoi:chuong-trinh-cuoi:uu-dai-1:uu-dai-2:uu-dai-3:tin-2:tin-3:thuc-don:hoa-cuoi"/>
+    <file name="u22151.png" crc="211285636" ref="index:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:tin-1:uu-dai:trang-diem:am-thuc:am-nhac:banh-cuoi:chuong-trinh-cuoi:uu-dai-1:uu-dai-2:uu-dai-3:tin-2:tin-3:thuc-don:hoa-cuoi"/>
+    <file name="u22151-r.png" crc="212335691" ref="index:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:tin-1:uu-dai:trang-diem:am-thuc:am-nhac:banh-cuoi:chuong-trinh-cuoi:uu-dai-1:uu-dai-2:uu-dai-3:tin-2:tin-3:thuc-don:hoa-cuoi"/>
+    <file name="u22151-a.png" crc="220998789" ref="index:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:tin-1:uu-dai:trang-diem:am-thuc:am-nhac:banh-cuoi:chuong-trinh-cuoi:uu-dai-1:uu-dai-2:uu-dai-3:tin-2:tin-3:thuc-don:hoa-cuoi"/>
+    <file name="u22174.png" crc="408519935" ref="index:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:tin-1:uu-dai:trang-diem:am-thuc:am-nhac:banh-cuoi:chuong-trinh-cuoi:uu-dai-1:uu-dai-2:uu-dai-3:tin-2:tin-3:thuc-don:hoa-cuoi"/>
+    <file name="u22174-r.png" crc="414462186" ref="index:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:tin-1:uu-dai:trang-diem:am-thuc:am-nhac:banh-cuoi:chuong-trinh-cuoi:uu-dai-1:uu-dai-2:uu-dai-3:tin-2:tin-3:thuc-don:hoa-cuoi"/>
+    <file name="u22174-a.png" crc="4196312392" ref="index:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:tin-1:uu-dai:trang-diem:am-thuc:am-nhac:banh-cuoi:chuong-trinh-cuoi:uu-dai-1:uu-dai-2:uu-dai-3:tin-2:tin-3:thuc-don:hoa-cuoi"/>
+    <file name="u22164.png" crc="4285516111" ref="index:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:tin-1:uu-dai:trang-diem:am-thuc:am-nhac:banh-cuoi:chuong-trinh-cuoi:uu-dai-1:uu-dai-2:uu-dai-3:tin-2:tin-3:thuc-don:hoa-cuoi"/>
+    <file name="u22164-r.png" crc="4112575274" ref="index:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:tin-1:uu-dai:trang-diem:am-thuc:am-nhac:banh-cuoi:chuong-trinh-cuoi:uu-dai-1:uu-dai-2:uu-dai-3:tin-2:tin-3:thuc-don:hoa-cuoi"/>
+    <file name="u22164-a.png" crc="3994315053" ref="index:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:tin-1:uu-dai:trang-diem:am-thuc:am-nhac:banh-cuoi:chuong-trinh-cuoi:uu-dai-1:uu-dai-2:uu-dai-3:tin-2:tin-3:thuc-don:hoa-cuoi"/>
+    <file name="u22157.png" crc="4057033553" ref="index:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:tin-1:uu-dai:trang-diem:am-thuc:am-nhac:banh-cuoi:chuong-trinh-cuoi:uu-dai-1:uu-dai-2:uu-dai-3:tin-2:tin-3:thuc-don:hoa-cuoi"/>
+    <file name="u22157-r.png" crc="460414640" ref="index:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:tin-1:uu-dai:trang-diem:am-thuc:am-nhac:banh-cuoi:chuong-trinh-cuoi:uu-dai-1:uu-dai-2:uu-dai-3:tin-2:tin-3:thuc-don:hoa-cuoi"/>
+    <file name="u22157-a.png" crc="4239963618" ref="index:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:tin-1:uu-dai:trang-diem:am-thuc:am-nhac:banh-cuoi:chuong-trinh-cuoi:uu-dai-1:uu-dai-2:uu-dai-3:tin-2:tin-3:thuc-don:hoa-cuoi"/>
+    <file name="u22185.png" crc="4217676924" ref="index:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:tin-1:uu-dai:trang-diem:am-thuc:am-nhac:banh-cuoi:chuong-trinh-cuoi:uu-dai-1:uu-dai-2:uu-dai-3:tin-2:tin-3:thuc-don:hoa-cuoi"/>
+    <file name="u22185-r.png" crc="125850649" ref="index:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:tin-1:uu-dai:trang-diem:am-thuc:am-nhac:banh-cuoi:chuong-trinh-cuoi:uu-dai-1:uu-dai-2:uu-dai-3:tin-2:tin-3:thuc-don:hoa-cuoi"/>
+    <file name="u22185-a.png" crc="72268047" ref="index:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:tin-1:uu-dai:trang-diem:am-thuc:am-nhac:banh-cuoi:chuong-trinh-cuoi:uu-dai-1:uu-dai-2:uu-dai-3:tin-2:tin-3:thuc-don:hoa-cuoi"/>
+    <file name="slide1.jpg" crc="484461310" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slide2.jpg" crc="3899747633" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery1304x229.jpg" crc="372074500" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery2304x228.jpg" crc="193075874" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery3304x229.jpg" crc="407921319" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery4304x229.jpg" crc="97367753" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery5304x229.jpg" crc="4019255058" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery6304x228.jpg" crc="4294650722" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery7304x228.jpg" crc="271419324" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery8304x229.jpg" crc="465062775" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u22135-4.png" crc="4030273173" ref="index:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:tin-1:uu-dai:trang-diem:am-thuc:am-nhac:banh-cuoi:chuong-trinh-cuoi:uu-dai-1:uu-dai-2:uu-dai-3:tin-2:tin-3:thuc-don:hoa-cuoi"/>
+    <file name="pasted-svg-358x165.svg" crc="284450347" seo="true" ref="index:gioi-thieu:dich-vu:thu-vien:tin-tuc:lien-he:tin-1:uu-dai:trang-diem:am-thuc:am-nhac:banh-cuoi:chuong-trinh-cuoi:uu-dai-1:uu-dai-2:uu-dai-3:tin-2:tin-3:thuc-don:hoa-cuoi">
+      <caption webpage="uu-dai" alt=""/>
+      <caption webpage="am-thuc" alt=""/>
+      <caption webpage="thu-vien" alt=""/>
+      <caption webpage="tin-2" alt=""/>
+      <caption webpage="uu-dai-3" alt=""/>
+      <caption webpage="am-nhac" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="chuong-trinh-cuoi" alt=""/>
+      <caption webpage="dich-vu" alt=""/>
+      <caption webpage="uu-dai-2" alt=""/>
+      <caption webpage="thuc-don" alt=""/>
+      <caption webpage="banh-cuoi" alt=""/>
+      <caption webpage="lien-he" alt=""/>
+      <caption webpage="trang-diem" alt=""/>
+      <caption webpage="gioi-thieu" alt=""/>
+      <caption webpage="hoa-cuoi" alt=""/>
+      <caption webpage="tin-3" alt=""/>
+      <caption webpage="tin-1" alt=""/>
+      <caption webpage="cam-hoa" alt=""/>
+      <caption webpage="uu-dai-1" alt=""/>
+      <caption webpage="tin-tuc" alt=""/>
+    </file>
+    <file name="pasted svg 358x165_poster_.png" crc="4084818449" ref="index:uu-dai:gioi-thieu"/>
+    <file name="u14366_states.png" crc="4161851258" ref="dich-vu"/>
+    <file name="u14366_states-r.png" crc="4161851258" ref="dich-vu"/>
+    <file name="u14366_states-m.png" crc="4161851258" ref="dich-vu"/>
+    <file name="u14334_states.png" crc="4180867528" ref="dich-vu"/>
+    <file name="u14334_states-r.png" crc="4180867528" ref="dich-vu"/>
+    <file name="u14334_states-m.png" crc="4180867528" ref="dich-vu"/>
+    <file name="u14375_states.png" crc="3990473392" ref="dich-vu"/>
+    <file name="u14375_states-r.png" crc="3990473392" ref="dich-vu"/>
+    <file name="u14375_states-m.png" crc="3990473392" ref="dich-vu"/>
+    <file name="u16048_states.png" crc="3979249138" ref="dich-vu"/>
+    <file name="u16048_states-r.png" crc="3979249138" ref="dich-vu"/>
+    <file name="u16048_states-m.png" crc="3979249138" ref="dich-vu"/>
+    <file name="u16049_states.png" crc="4006985492" ref="dich-vu"/>
+    <file name="u16049_states-r.png" crc="4006985492" ref="dich-vu"/>
+    <file name="u16049_states-m.png" crc="4006985492" ref="dich-vu"/>
+    <file name="u16050_states.png" crc="3998500765" ref="dich-vu"/>
+    <file name="u16050_states-r.png" crc="3998500765" ref="dich-vu"/>
+    <file name="u16050_states-m.png" crc="3998500765" ref="dich-vu"/>
+    <file name="gallery22.jpg" crc="14643524" seo="true" ref="thu-vien">
+      <caption webpage="thu-vien" alt=""/>
+    </file>
+    <file name="gallery2304x2282.jpg" crc="193075874" seo="true" ref="thu-vien">
+      <caption webpage="thu-vien" alt=""/>
+    </file>
+    <file name="8be0a9a78a0a5ca292844fa2b63b2076-buttonu16500-fr.jpg" crc="99286198" ref="tin-tuc"/>
+    <file name="gia-nha-hang-tiec-cuoi-glorious.jpg" crc="3835404724" ref="tin-tuc">
+      <caption webpage="tin-tuc" alt=""/>
+    </file>
+    <file name="dessert-table-buttonu23057-fr.jpg" crc="3830213551" ref="tin-tuc"/>
+    <file name="u23160-4.png" crc="156590417" ref="lien-he"/>
+    <file name="u23158-4.png" crc="3772934105" ref="lien-he"/>
+    <file name="u23159-4.png" crc="417259744" ref="lien-he"/>
+    <file name="8be0a9a78a0a5ca292844fa2b63b2076.jpg" crc="258017962" ref="tin-1">
+      <caption webpage="tin-1" alt=""/>
+    </file>
+    <file name="62-1499077191116.jpg" crc="3803777373" ref="tin-1:tin-2:tin-3">
+      <caption webpage="tin-3" alt=""/>
+      <caption webpage="tin-2" alt=""/>
+      <caption webpage="tin-1" alt=""/>
+    </file>
+    <file name="alex-wong-46425-1499054024022.jpg" crc="180447388" ref="tin-1:tin-2:tin-3">
+      <caption webpage="tin-3" alt=""/>
+      <caption webpage="tin-2" alt=""/>
+      <caption webpage="tin-1" alt=""/>
+    </file>
+    <file name="dung-hoi-anh-1-1498486962180-0-0-437-700-crop-1498879607668.jpg" crc="4197397252" ref="tin-1:tin-2:tin-3">
+      <caption webpage="tin-3" alt=""/>
+      <caption webpage="tin-2" alt=""/>
+      <caption webpage="tin-1" alt=""/>
+    </file>
+    <file name="1.jpg" crc="4122352497" ref="uu-dai">
+      <caption webpage="uu-dai" alt=""/>
+    </file>
+    <file name="3.jpg" crc="73447978" seo="true" ref="uu-dai">
+      <caption webpage="uu-dai" alt=""/>
+    </file>
+    <file name="vdv-menue1_ac_hp_haeder.jpg" crc="3989957273" ref="am-thuc">
+      <caption webpage="am-thuc" alt=""/>
+    </file>
+    <file name="u27983-9.png" crc="526165185" ref="am-nhac"/>
+    <file name="u28048-4.png" crc="4011285985" ref="banh-cuoi"/>
+    <file name="trung-tam-hoi-nghi-tiec-cuoi-kalina-11.jpg" crc="207650882" ref="tin-2">
+      <caption webpage="tin-2" alt=""/>
+    </file>
+    <file name="dessert-table.jpg" crc="3999741545" ref="tin-3">
+      <caption webpage="tin-3" alt=""/>
+    </file>
+    <file name="menu-tiec-cuoi-metropole-1-2.jpg" crc="319605292" seo="true" ref="thuc-don">
+      <caption webpage="thuc-don" alt=""/>
+    </file>
+    <file name="menu-tiec-cuoi-metropole-1-3.jpg" crc="4130440973" seo="true" ref="thuc-don">
+      <caption webpage="thuc-don" alt=""/>
+    </file>
+    <file name="menu-tiec-cuoi-metropole-1-4.jpg" crc="402415167" seo="true" ref="thuc-don">
+      <caption webpage="thuc-don" alt=""/>
+    </file>
+    <file name="menu-tiec-cuoi-metropole-1-7.jpg" crc="3796584176" seo="true" ref="thuc-don">
+      <caption webpage="thuc-don" alt=""/>
+    </file>
+    <file name="1a.jpg" crc="3819692714" seo="true" ref="uu-dai-1">
+      <caption webpage="uu-dai-1" alt=""/>
+    </file>
+    <file name="3b.jpg" crc="3873144661" seo="true" ref="uu-dai-2">
+      <caption webpage="uu-dai-2" alt=""/>
+    </file>
+    <file name="2c.jpg" crc="3890859409" seo="true" ref="uu-dai-3">
+      <caption webpage="uu-dai-3" alt=""/>
+    </file>
+    <file name="untitled-untitled-u29116.png" crc="4078554343" ref="uu-dai"/>
+    <file name="4-crop-u28388.jpg" crc="3762733730" seo="true" ref="trang-diem">
+      <caption webpage="trang-diem" alt=""/>
+    </file>
+    <file name="3-crop-u28392.jpg" crc="75489813" seo="true" ref="trang-diem">
+      <caption webpage="trang-diem" alt=""/>
+    </file>
+    <file name="1-crop-u28390.jpg" crc="412986130" seo="true" ref="trang-diem">
+      <caption webpage="trang-diem" alt=""/>
+    </file>
+    <file name="slide_2.jpg" crc="422654002" ref="hoa-cuoi">
+      <caption webpage="hoa-cuoi" alt=""/>
+    </file>
+    <file name="manchester-music-themed-wedding-at-chancellors-hotel.jpg" crc="168882543" ref="am-nhac">
+      <caption webpage="am-nhac" alt=""/>
+    </file>
+    <file name="classical-wedding.jpg" crc="412439620" ref="am-nhac">
+      <caption webpage="am-nhac" alt=""/>
+    </file>
+    <file name="8.jpg" crc="4051258419" ref="banh-cuoi">
+      <caption webpage="banh-cuoi" alt=""/>
+    </file>
+    <file name="qcorona-10.jpg" crc="3976201381" ref="banh-cuoi">
+      <caption webpage="banh-cuoi" alt=""/>
+    </file>
+    <file name="vintage-wedding-reception-flowers-white-centerpieces-mason-jarsoriginal.jpg" crc="4061943322" ref="chuong-trinh-cuoi">
+      <caption webpage="chuong-trinh-cuoi" alt=""/>
+    </file>
+    <file name="vintage-wedding-ideas_2.jpg" crc="3788288451" ref="chuong-trinh-cuoi">
+      <caption webpage="chuong-trinh-cuoi" alt=""/>
+    </file>
+    <file name="silchesterhse-128_0.jpg" crc="150386794" seo="true" ref="gioi-thieu">
+      <caption webpage="gioi-thieu" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="113637601" ref="tablet>contact:tablet>services:tablet>blog:tablet>testimonials:tablet>index:tablet>about:tablet>sample--blog-page:tablet>gallery"/>
+      <file name="contact.css" crc="15708131" ref="tablet>contact"/>
+      <file name="iefonts_contact.css" crc="3894353374" ref="tablet>contact"/>
+      <file name="services.css" crc="64864356" ref="tablet>services"/>
+      <file name="iefonts_services.css" crc="3903091569" ref="tablet>services"/>
+      <file name="blog.css" crc="4176701893" ref="tablet>blog"/>
+      <file name="iefonts_blog.css" crc="66661415" ref="tablet>blog"/>
+      <file name="testimonials.css" crc="3820836686" ref="tablet>testimonials"/>
+      <file name="iefonts_testimonials.css" crc="3791288199" ref="tablet>testimonials"/>
+      <file name="index.css" crc="4196977756" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="51705767" ref="tablet>index"/>
+      <file name="about.css" crc="153649966" ref="tablet>about"/>
+      <file name="iefonts_about.css" crc="3841531382" ref="tablet>about"/>
+      <file name="sample--blog-page.css" crc="414643450" ref="tablet>sample--blog-page"/>
+      <file name="iefonts_sample--blog-page.css" crc="362887140" ref="tablet>sample--blog-page"/>
+      <file name="gallery.css" crc="4260284690" ref="tablet>gallery"/>
+      <file name="iefonts_gallery.css" crc="375545134" ref="tablet>gallery"/>
+    </folder>
+    <file name="index.html" crc="278371200" seo="true" mt="1452457020981" redirect="true"/>
+    <file name="about.html" crc="228216549" seo="true" mt="1499055521883" redirect="true"/>
+    <file name="services.html" crc="4167636597" seo="true" mt="1499055534860" redirect="true"/>
+    <file name="gallery.html" crc="119762647" seo="true" mt="1499055544138" redirect="true"/>
+    <file name="testimonials.html" crc="369169425" seo="true" mt="1499055553153" redirect="true"/>
+    <file name="blog.html" crc="4147751594" seo="true" mt="1499088486502" redirect="true"/>
+    <file name="sample--blog-page.html" crc="3807484398" seo="true" mt="1499088490205" redirect="true"/>
+    <file name="contact.html" crc="486457765" seo="true" mt="1499055568692" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="416797908" ref="phone>blog:phone>index:phone>sample--blog-page:phone>contact:phone>gallery:phone>services:phone>testimonials:phone>about"/>
+      <file name="blog.css" crc="212894423" ref="phone>blog"/>
+      <file name="iefonts_blog.css" crc="257627768" ref="phone>blog"/>
+      <file name="index.css" crc="4133741727" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="15597165" ref="phone>index"/>
+      <file name="sample--blog-page.css" crc="4250344746" ref="phone>sample--blog-page"/>
+      <file name="iefonts_sample--blog-page.css" crc="4038795974" ref="phone>sample--blog-page"/>
+      <file name="contact.css" crc="149595883" ref="phone>contact"/>
+      <file name="iefonts_contact.css" crc="109247628" ref="phone>contact"/>
+      <file name="gallery.css" crc="4218510260" ref="phone>gallery"/>
+      <file name="iefonts_gallery.css" crc="347724231" ref="phone>gallery"/>
+      <file name="services.css" crc="3992808637" ref="phone>services"/>
+      <file name="iefonts_services.css" crc="508820189" ref="phone>services"/>
+      <file name="testimonials.css" crc="220346763" ref="phone>testimonials"/>
+      <file name="iefonts_testimonials.css" crc="3860704680" ref="phone>testimonials"/>
+      <file name="about.css" crc="388232893" ref="phone>about"/>
+      <file name="iefonts_about.css" crc="4185472851" ref="phone>about"/>
+    </folder>
+    <file name="index.html" crc="236328558" seo="true" mt="1452457245947" redirect="true"/>
+    <file name="about.html" crc="248230626" seo="true" mt="1499055521884" redirect="true"/>
+    <file name="services.html" crc="514662692" seo="true" mt="1499055534861" redirect="true"/>
+    <file name="gallery.html" crc="111690107" seo="true" mt="1499055544139" redirect="true"/>
+    <file name="testimonials.html" crc="4053076954" seo="true" mt="1499055553153" redirect="true"/>
+    <file name="blog.html" crc="231851230" seo="true" mt="1499088486502" redirect="true"/>
+    <file name="sample--blog-page.html" crc="234143819" seo="true" mt="1499088490205" redirect="true"/>
+    <file name="contact.html" crc="4043755100" seo="true" mt="1499055568693" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="531772479" seo="true" mt="1499662468304" redirect="true"/>
+  <file name="gioi-thieu.html" crc="3785894074" seo="true" mt="1499830994674" redirect="true"/>
+  <file name="dich-vu.html" crc="4262873115" seo="true" mt="1499662468304" redirect="true"/>
+  <file name="thu-vien.html" crc="305112612" seo="true" mt="1499662468304" redirect="true"/>
+  <file name="tin-tuc.html" crc="413267800" seo="true" mt="1499662468304" redirect="true"/>
+  <file name="lien-he.html" crc="4161256001" seo="true" mt="1499662468304" redirect="true"/>
+  <file name="tin-1.html" crc="4181262483" seo="true" mt="1499662468304" redirect="true"/>
+  <file name="uu-dai.html" crc="3811508425" seo="true" mt="1499662468304" redirect="true"/>
+  <file name="trang-diem.html" crc="3945987679" seo="true" mt="1499662468304" redirect="true"/>
+  <file name="am-thuc.html" crc="4227135540" seo="true" mt="1499662468304" redirect="true"/>
+  <file name="am-nhac.html" crc="3949277849" seo="true" mt="1499662468304" redirect="true"/>
+  <file name="banh-cuoi.html" crc="4055973908" seo="true" mt="1499662468304" redirect="true"/>
+  <file name="chuong-trinh-cuoi.html" crc="3892705072" seo="true" mt="1499662468304" redirect="true"/>
+  <file name="uu-dai-1.html" crc="536385489" seo="true" mt="1499662468304" redirect="true"/>
+  <file name="uu-dai-2.html" crc="28963209" seo="true" mt="1499662468304" redirect="true"/>
+  <file name="uu-dai-3.html" crc="20895332" seo="true" mt="1499662468304" redirect="true"/>
+  <file name="tin-2.html" crc="190781088" seo="true" mt="1499662468304" redirect="true"/>
+  <file name="tin-3.html" crc="428044264" seo="true" mt="1499662468304" redirect="true"/>
+  <file name="thuc-don.html" crc="289712701" seo="true" mt="1499662468304" redirect="true"/>
+  <file name="hoa-cuoi.html" crc="188514629" seo="true" mt="1499662468304" redirect="true"/>
+</manifest>
